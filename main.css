@@ -1,0 +1,84 @@
+body {
+	font-family: 'Cutive Mono';
+	color: #000;
+	font-size: 1.25em;
+	background-color: #fff;
+}
+
+h1 {
+	text-align: center;
+
+}
+
+img {
+
+	display: block;
+	height: 142px;
+	width: 224px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 100px;
+}	
+
+form {
+	text-align: center;
+	margin-top: -20px;
+	
+}
+
+.button {
+	-webkit-border-radius: 12;
+    -moz-border-radius: 12;
+	display: block;
+	margin-top: 15px;
+	margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 20px;
+    border-radius: 12px;
+	font-family: 'Cutive Mono';
+	color: #000;
+	font-size: 16px;
+	background: #9dd9f1;
+	padding: 10px 20px 10px 20px;
+	text-decoration: none;
+	border: 0;
+	font-weight: bold;
+	letter-spacing: 3px;
+	outline: none;
+}
+
+#warning {
+	text-align: center;
+}
+
+.searchquery {
+	border: 1px dotted black;
+}
+
+#explanation {
+	width: 900px;
+	margin: 0 auto;
+	font-size: 16px;
+	padding-top: 20px;
+	text-align: center;
+}
+
+
+#results{
+	width: 500px;
+	margin: 0 auto;
+	text-align: center;
+
+}
+
+#results a {
+font-size: 20px;
+  font-weight: bold;
+  text-decoration: none;
+  font-family: 'Cutive Mono';
+  webkit-border-radius: 12;
+  -moz-border-radius: 12;
+  letter-spacing: 3px;
+  color: #aa5a4f;
+}
+
